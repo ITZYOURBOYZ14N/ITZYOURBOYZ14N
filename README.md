@@ -1,7 +1,3 @@
-KAYZIAN 
-              
-<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/864c0418-7d04-48ba-99a1-5fb7cdfd952b" />
+<img width="400" height="600" alt="Image" src="https://github.com/user-attachments/assets/7a55e4f5-85ca-42b9-a655-287b940178b3" />
 
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/a1a032a8-3dba-4342-82ad-e949bc4594c0" />
-
-`You are my forever shadow.`
+***`You are my forever shadow.`***
