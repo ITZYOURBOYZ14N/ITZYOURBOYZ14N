@@ -1,6 +1,6 @@
 <img width="1500" height="160" alt="Image" src="https://github.com/user-attachments/assets/8df03902-a316-40e7-acb1-7dab8567275d" />
 
-<p align="center">***`@ITZYOURBOYZ14N`***
+***`@ITZYOURBOYZ14N`***
 
 <img width="552" height="368" alt="Image" src="https://github.com/user-attachments/assets/d8d4e380-9bcb-4e6b-96df-10c27439af80" />
 
