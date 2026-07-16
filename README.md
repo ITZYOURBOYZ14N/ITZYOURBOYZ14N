@@ -72,3 +72,9 @@
 
 
 <img width="1500" height="199" alt="Image" src="https://github.com/user-attachments/assets/d6deeb94-b1f2-4443-b35a-d202bf4d9dbf" />
+
+
+
+
+
+[pronouns.cc](https://pronouns.cc/@K4YZ14N_THENO.1HOLLANOVFAN)
