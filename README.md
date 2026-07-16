@@ -1,7 +1,7 @@
 <div align="center">  
 
 
-<img width="1500" height="160" alt="Image" src="https://github.com/user-attachments/assets/8df03902-a316-40e7-acb1-7dab8567275d" />
+<img width="1500" height="199" alt="Image" src="https://github.com/user-attachments/assets/27add9b4-c589-4eec-9f42-128319006973" />
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-<img width="552" height="368" alt="Image" src="https://github.com/user-attachments/assets/d8d4e380-9bcb-4e6b-96df-10c27439af80" />
+<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/fbebb885-7087-4d17-bc02-73c35851cc54" />
 
 
 
@@ -72,4 +72,4 @@ $\color{#1D55BB}{\textup“ You   are    my   forever   shadow. ”}$
 
 
 
-<img width="1500" height="160" alt="Image" src="https://github.com/user-attachments/assets/8df03902-a316-40e7-acb1-7dab8567275d" />
+<img width="1500" height="199" alt="Image" src="https://github.com/user-attachments/assets/d6deeb94-b1f2-4443-b35a-d202bf4d9dbf" />
