@@ -11,7 +11,7 @@
 
 
 
-***`@ITZYOURBOYZ14N`***
+***`@𝐼𝑇𝑍𝑌𝑂𝑈𝑅𝐵𝑂𝑌𝑍𝐼𝐴𝑁`***
 
 
 
@@ -28,7 +28,6 @@
 
 
 
-$\color{#1D55BB}{\textup“ You   are    my   forever   shadow. ”}$
 
 
 
