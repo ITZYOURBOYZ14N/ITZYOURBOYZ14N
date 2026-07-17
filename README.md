@@ -12,9 +12,7 @@
 
 
 
-
 ***`@𝐼𝑇𝑍𝑌𝑂𝑈𝑅𝐵𝑂𝑌𝑍𝐼𝐴𝑁`***
-
 
 
 
@@ -83,6 +81,7 @@
 
 
 
+
 ![](https://komarev.com/ghpvc/?username=zianisontheice&color=1D55BB&style=plastic&label=༗༘༘༘)
 
 
@@ -99,7 +98,8 @@
 
 
 
-[pronouns.cc](https://pronouns.cc/@K4YZ14N_THENO.1HOLLANOVFAN)
+[pronouns.cc](https://pronouns.cc/@K4YZ14N_THENO.1HOLLANOVFAN)       [x](https://x.com/Z14NHOLIC)
+
 
 
 
