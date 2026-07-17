@@ -97,8 +97,13 @@
 
 
 
+[⋆ — ᵖʳᵒⁿᵒᵘⁿˢᶜᶜ](https://pronouns.cc/@K4YZ14N_THENO.1HOLLANOVFAN)       
 
-[pronouns.cc](https://pronouns.cc/@K4YZ14N_THENO.1HOLLANOVFAN)       [x](https://x.com/Z14NHOLIC)
+
+
+
+[⋆ — ˣ](https://x.com/Z14NHOLIC)
+
 
 
 
