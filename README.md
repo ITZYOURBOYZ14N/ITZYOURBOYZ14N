@@ -107,6 +107,11 @@
 
 
 
+[⋆ — 新ᵇᵒᵒᵏ / ᵃᵗᵃᵇᵒᵒᵏ](https://z14nthegoat.atabook.org/)
+
+
+
+
 [⋆ — ˣ](https://x.com/Z14NHOLIC)
 
 
