@@ -67,7 +67,7 @@
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐅𝐀𝐍𝐃𝐎𝐌 𝐈𝐖𝐂}}$
+<p align="center"> $\color{#006dff}{\textsf{𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐅𝐀𝐍𝐃𝐎𝐌 𝐈𝐖𝐄𝐂}}$
 
 
 
@@ -77,7 +77,7 @@
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐊𝐈𝐍𝐍𝐄𝐑𝐒, 𝐈𝐖𝐄𝐂 }}$
+<p align="center"> $\color{#006dff}{\textsf{𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐊𝐈𝐍𝐍𝐄𝐑𝐒, 𝐈𝐖𝐂 }}$
 
 
 
