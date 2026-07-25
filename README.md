@@ -27,7 +27,9 @@
 
 
 
-
+<details>
+  <summary> <p align="center"> $\color{#0060be}{\textsf{༙ 𓂃 𝐂𝐋𝐈𝐂𝐊 𝐌𝐄! 𓂅 ✦}}$ </summary>
+  
 
 
 
@@ -75,7 +77,7 @@
 
 
 
-
+</details>
 
 
 
