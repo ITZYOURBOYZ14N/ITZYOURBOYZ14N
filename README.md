@@ -37,37 +37,42 @@
 
 
 
-𝐈𝐒𝐅𝐏
+<p align="center"> $\color{#006dff}{\textsf{𝐈𝐒𝐅𝐏}}$
 
 
 
 
-𝐀𝐑𝐈𝐄𝐒
+<p align="center"> $\color{#006dff}{\textsf{𝐀𝐑𝐈𝐄𝐒}}$
 
 
 
 
-𝟏𝟔
+<p align="center"> $\color{#006dff}{\textsf{𝟏𝟔}}$
 
 
 
 
-𝐒𝐓𝐑𝐈𝐂𝐓𝐋𝐘 𝐇𝐄 / 𝐇𝐈𝐌
+
+<p align="center"> $\color{#006dff}{\textsf{𝐒𝐓𝐑𝐈𝐂𝐓𝐋𝐘 𝐇𝐄 / 𝐇𝐈𝐌}}$
 
 
 
 
-𝐏𝐀𝐍𝐒𝐄𝐗𝐔𝐀𝐋 + 𝐓𝐑𝐀𝐍𝐒𝐌𝐀𝐒𝐂𝐔𝐋𝐈𝐍𝐄
+<p align="center"> $\color{#006dff}{\textsf{𝐏𝐀𝐍𝐒𝐄𝐗𝐔𝐀𝐋 + 𝐓𝐑𝐀𝐍𝐒𝐌𝐀𝐒𝐂𝐔𝐋𝐈𝐍𝐄}}$
 
 
 
 
-𝐅𝐀𝐍𝐃𝐎𝐌 𝐈𝐖𝐂, 𝐇𝐎𝐋𝐋𝐀𝐍𝐎𝐕 𝐊𝐈𝐍𝐍𝐄𝐑𝐒 𝐈𝐍𝐓 𝐀𝐍𝐃 𝐏𝐄𝐎𝐏𝐋𝐄 𝐖𝐇𝐎 𝐋𝐈𝐊𝐄𝐒 𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐈𝐍𝐓, 𝐄𝐍𝐂 !!
+<p align="center"> $\color{#006dff}{\textsf{𝐅𝐀𝐍𝐃𝐎𝐌 𝐈𝐖𝐂, 𝐇𝐎𝐋𝐋𝐀𝐍𝐎𝐕 𝐊𝐈𝐍𝐍𝐄𝐑𝐒 𝐈𝐍𝐓 𝐀𝐍𝐃 𝐏𝐄𝐎𝐏𝐋𝐄 𝐖𝐇𝐎 𝐋𝐈𝐊𝐄𝐒 𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐈𝐍𝐓, 𝐄𝐍𝐂 !!}}$
 
 
 
 
-𝚁𝚒𝚐𝚑𝚝𝚏𝚞𝚕𝚕𝚢 𝚃𝚊𝚔𝚎𝚗 𝙱𝚢: 𝓕𝓲𝓸𝓭𝓸𝓻
+<p align="center"> $\color{#ffcc00}{\textsf{𝚁𝚒𝚐𝚑𝚝𝚏𝚞𝚕𝚕𝚢 𝚃𝚊𝚔𝚎𝚗 𝙱𝚢: ☀ — 𝓕𝓲𝓸𝓭𝓸𝓻
+  }}$
+
+
+
 
 
 
@@ -92,7 +97,7 @@
 
 
 
-<p align="center"> <sub> $\color{#0060be}{\textsf{𝕄𝕪 𝕊𝕠𝕔𝕚𝕒𝕝(𝕤) !!:
+<p align="center"> $\color{#0060be}{\textsf{𝕄𝕪 𝕊𝕠𝕔𝕚𝕒𝕝(𝕤) !!:
   }}$
 
 
