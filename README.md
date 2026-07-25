@@ -12,7 +12,7 @@
 
 
 
-<p align="center"> $\color{#0060be}{\textsf{@𝐼𝑇𝑍𝑌𝑂𝑈𝑅𝐵𝑂𝑌𝑍𝐼𝐴𝑁
+<p align="center"> $\color{#0050ba}{\textsf{@𝐼𝑇𝑍𝑌𝑂𝑈𝑅𝐵𝑂𝑌𝑍𝐼𝐴𝑁
   }}$
 
 
@@ -28,7 +28,7 @@
 
 
 <details>
-  <summary> <p align="center"> $\color{#0060be}{\textsf{༙ 𓂃 𝐂𝐋𝐈𝐂𝐊 𝐌𝐄! 𓂅 ✦}}$ </summary>
+  <summary> <p align="center"> $\color{#0050ba}{\textsf{༙ 𓂃 𝐂𝐋𝐈𝐂𝐊 𝐌𝐄! 𓂅 ✦}}$ </summary>
   
 
 
@@ -97,7 +97,7 @@
 
 
 
-<p align="center"> $\color{#0060be}{\textsf{𝕄𝕪 𝕊𝕠𝕔𝕚𝕒𝕝(𝕤) !!:
+<p align="center"> $\color{#0050ba}{\textsf{𝕄𝕪 𝕊𝕠𝕔𝕚𝕒𝕝(𝕤) !!:
   }}$
 
 
@@ -126,5 +126,5 @@
 
 
 
-<p align="center"> $\color{#0060be}{\textsf{༘ 𓂃   “ 𝑀𝑎𝑦 𝐻𝑒𝑎𝑡𝑒𝑑 𝑅𝑖𝑣𝑎𝑙𝑟𝑦 𝑓𝑖𝑛𝑑 𝑦𝑜𝑢. ”   𓂅 ༙
+<p align="center"> $\color{#0050ba}{\textsf{༘ 𓂃   “ 𝑀𝑎𝑦 𝐻𝑒𝑎𝑡𝑒𝑑 𝑅𝑖𝑣𝑎𝑙𝑟𝑦 𝑓𝑖𝑛𝑑 𝑦𝑜𝑢. ”   𓂅 ༙
   }}$
