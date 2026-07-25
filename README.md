@@ -1,4 +1,9 @@
+
+
+
+
 <div align="center">  
+
 
 
 
@@ -52,7 +57,6 @@
 
 
 
-
 <p align="center"> $\color{#006dff}{\textsf{𝐒𝐓𝐑𝐈𝐂𝐓𝐋𝐘 𝐇𝐄 / 𝐇𝐈𝐌}}$
 
 
@@ -63,7 +67,17 @@
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐅𝐀𝐍𝐃𝐎𝐌 𝐈𝐍𝐓}}$
+<p align="center"> $\color{#006dff}{\textsf{𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐅𝐀𝐍𝐃𝐎𝐌 𝐈𝐖𝐂}}$
+
+
+
+
+<p align="center"> $\color{#006dff}{\textsf{𝐇𝐎𝐋𝐋𝐀𝐍𝐎𝐕 𝐊𝐈𝐍𝐍𝐄𝐑𝐒 𝐈𝐍𝐓}}$
+
+
+
+
+<p align="center"> $\color{#006dff}{\textsf{𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐊𝐈𝐍𝐍𝐄𝐑𝐒, 𝐈𝐖𝐄𝐂 }}$
 
 
 
@@ -78,9 +92,10 @@
 
 
 
-
-
 </details>
+
+
+
 
 
 
@@ -103,6 +118,10 @@
 
 
 
+
+
+
+
 [⋆ — ᵖʳᵒⁿᵒᵘⁿˢᶜᶜ](https://pronouns.cc/@K4YZ14N_THENO.1HOLLANOVFAN)       
 
 
@@ -119,6 +138,8 @@
 
 
 [⋆ — ˣ](https://x.com/Z14NHOLIC)
+
+
 
 
 
