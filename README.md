@@ -57,17 +57,17 @@
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝐒𝐓𝐑𝐈𝐂𝐓𝐋𝐘 𝐇𝐄 / 𝐇𝐈𝐌}}$
+<p align="center"> $\color{#006dff}{\textsf{𝔖𝔗ℜℑℭ𝔗𝔏𝔜 ℌ𝔈 / ℌℑ𝔐 / ℌℑ𝔖 𝔒𝔑𝔏𝔜}}$
 
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝐏𝐀𝐍𝐒𝐄𝐗𝐔𝐀𝐋 + 𝐓𝐑𝐀𝐍𝐒𝐌𝐀𝐒𝐂𝐔𝐋𝐈𝐍𝐄}}$
+<p align="center"> $\color{#006dff}{\textsf{𝔓𝔄𝔑𝔖𝔈𝔛𝔘𝔄𝔏 + 𝔗ℜ𝔄𝔑𝔖𝔐𝔄𝔖ℭ𝔘𝔏ℑ𝔑𝔈 }}$
 
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝕳𝕰𝕬𝕿𝕰𝕯 𝕽𝕴𝖁𝕬𝕷𝕽𝖄 𝕱𝕬𝕹𝕯𝕺𝕸, 𝕴𝖂𝕰𝕮}}$
+<p align="center"> $\color{#006dff}{\textsf{ℌ𝔈𝔄𝔗𝔈𝔇 ℜℑ𝔙𝔄𝔏ℜ𝔜 𝔉𝔄𝔑𝔇𝔒𝔐, ℑ𝔚𝔈ℭ}}$
 
 
 
@@ -77,7 +77,7 @@
 <p align="center"> $\color{#006dff}{\textsf{ℑ𝔑𝔗 𝔈𝔑ℭ !!}}$
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝕳𝕰𝕬𝕿𝕰𝕯 𝕽𝕴𝖁𝕬𝕷𝕽𝖄 𝕶𝕴𝕹𝕹𝕰𝕽𝕾, 𝕴𝕹𝕿 }}$
+<p align="center"> $\color{#006dff}{\textsf{ℌ𝔈𝔄𝔗𝔈𝔇 ℜℑ𝔙𝔄𝔏ℜ𝔜 𝔉𝔄𝔑𝔇𝔒𝔐, ℑ𝔚𝔈ℭ }}$
 
 
 
