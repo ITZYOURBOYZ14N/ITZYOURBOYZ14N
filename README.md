@@ -42,12 +42,12 @@
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{ℑ𝔖𝔉𝔓}}$
+<p align="center"> $\color{#006dff}{\textsf{𝕴𝕾𝕱𝕻}}$
 
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝔄ℜℑ𝔈𝔖}}$
+<p align="center"> $\color{#006dff}{\textsf{𝕬𝖗𝖎𝖊𝖘}}$
 
 
 
@@ -57,29 +57,26 @@
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝔖𝔗ℜℑℭ𝔗𝔏𝔜 ℌ𝔈 / ℌℑ𝔐 / ℌℑ𝔖 𝔒𝔑𝔏𝔜}}$
+<p align="center"> $\color{#006dff}{\textsf{𝕾𝖙𝖗𝖎𝖈𝖙𝖑𝖞 𝕳𝖊 / 𝕳𝖎𝖒 / 𝕳𝖎𝖘 𝕺𝖓𝖑𝖞.}}$
 
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝔓𝔄𝔑𝔖𝔈𝔛𝔘𝔄𝔏 + 𝔗ℜ𝔄𝔑𝔖𝔐𝔄𝔖ℭ𝔘𝔏ℑ𝔑𝔈 }}$
+<p align="center"> $\color{#006dff}{\textsf{𝕻𝖆𝖓𝖘𝖊𝖝𝖚𝖆𝖑 + 𝕿𝖗𝖆𝖓𝖘𝖒𝖆𝖘𝖈𝖚𝖑𝖎𝖓𝖊  }}$
 
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{ℌ𝔈𝔄𝔗𝔈𝔇 ℜℑ𝔙𝔄𝔏ℜ𝔜 𝔉𝔄𝔑𝔇𝔒𝔐, ℑ𝔚𝔈ℭ}}$
+<p align="center"> $\color{#006dff}{\textsf{𝕳𝖊𝖆𝖙𝖊𝖉 𝕽𝖎𝖛𝖆𝖑𝖗𝖞 𝕱𝖆𝖓𝖉𝖔𝖒, 𝕴𝖜𝖊𝖈}}$
 
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{ℌ𝔒𝔏𝔏𝔄𝔑𝔒𝔙 𝔎ℑ𝔑𝔑𝔈ℜ𝔖/𝔇𝔒𝔘𝔅𝔏𝔈𝔖}}$
-
-<p align="center"> $\color{#006dff}{\textsf{ℑ𝔑𝔗 𝔈𝔑ℭ !!}}$
+<p align="center"> $\color{#006dff}{\textsf{𝕳𝖊𝖆𝖙𝖊𝖉 𝕽𝖎𝖛𝖆𝖑𝖗𝖞 𝕶𝖎𝖓𝖓𝖊𝖗𝖘, 𝕴𝖓𝖙}}$
 
 
-<p align="center"> $\color{#006dff}{\textsf{ℌ𝔈𝔄𝔗𝔈𝔇 ℜℑ𝔙𝔄𝔏ℜ𝔜 𝔉𝔄𝔑𝔇𝔒𝔐, ℑ𝔚𝔈ℭ }}$
 
-
+<p align="center"> $\color{#006dff}{\textsf{𝕳𝖔𝖑𝖑𝖆𝖓𝖔𝖛 𝕶𝖎𝖓𝖓𝖊𝖗𝖘, 𝕴𝖓𝖙 + 𝕳𝖊𝖆𝖛𝖎𝖑𝖞 𝕰𝖓𝖈 !}}$
 
 
 <p align="center"> $\color{#ffcc00}{\textsf{ℜ𝔦𝔤𝔥𝔱𝔣𝔲𝔩𝔩𝔶 𝔞𝔫𝔡 𝔉𝔬𝔯𝔢𝔳𝔢𝔯 ℌ𝔞𝔭𝔭𝔦𝔩𝔶 𝔗𝔞𝔨𝔢𝔫 𝔟𝔶 :
