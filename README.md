@@ -82,7 +82,7 @@
 
 
 
-<p align="center"> $\color{#ffcc00}{\textsf{𝚁𝚒𝚐𝚑𝚝𝚏𝚞𝚕𝚕𝚢 𝚃𝚊𝚔𝚎𝚗 𝙱𝚢: ☀ — 𝓕𝓲𝓸𝓭𝓸𝓻
+<p align="center"> $\color{#ffcc00}{\textsf{ℜ𝔦𝔤𝔥𝔱𝔣𝔲𝔩𝔩𝔶 𝔞𝔫𝔡 𝔉𝔬𝔯𝔢𝔳𝔢𝔯 ℌ𝔞𝔭𝔭𝔦𝔩𝔶 𝔗𝔞𝔨𝔢𝔫 𝔟𝔶 : ☀ — 𝓕𝓲𝓸𝓭𝓸𝓻
   }}$
 
 
