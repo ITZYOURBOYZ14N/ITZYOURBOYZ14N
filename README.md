@@ -123,22 +123,22 @@
 
 
 
-[⋆ — ᵖʳᵒⁿᵒᵘⁿˢᶜᶜ](https://pronouns.cc/@K4YZ14N_THENO.1HOLLANOVFAN)       
+[☯ — 𝕻𝖗𝖔𝖓𝖔𝖚𝖓𝖘.𝖈𝖈](https://pronouns.cc/@K4YZ14N_THENO.1HOLLANOVFAN)       
 
 
 
 
-[⋆ — ᵈⁱˢᶜᵒʳᵈ](https://discord.com/users/1525479910926323773)
+[☯ — 𝕯𝖎𝖘𝖈𝖔𝖗𝖉 ](https://discord.com/users/1525479910926323773)
 
 
 
 
-[⋆ — 新ᵇᵒᵒᵏ / ᵃᵗᵃᵇᵒᵒᵏ](https://z14nthegoat.atabook.org/)
+[☯ — 新𝖇𝖔𝖔𝖐 / 𝕬𝖙𝖆𝖇𝖔𝖔𝖐](https://z14nthegoat.atabook.org/)
 
 
 
 
-[⋆ — ˣ](https://x.com/Z14NHOLIC)
+[☯ — 𝖃](https://x.com/Z14NHOLIC)
 
 
 
