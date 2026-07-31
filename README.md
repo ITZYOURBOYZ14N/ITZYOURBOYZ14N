@@ -112,7 +112,7 @@
 
 
 
-<p align="center"> $\color{#0050ba}{\textsf{𝕄𝕪 𝕊𝕠𝕔𝕚𝕒𝕝(𝕤) !!:
+<p align="center"> $\color{#0050ba}{\textsf{𝕸𝖞 𝕾𝖔𝖈𝖎𝖆𝖑(𝖘) !! :
   }}$
 
 
@@ -147,5 +147,5 @@
 
 
 
-<p align="center"> $\color{#0050ba}{\textsf{༘ 𓂃   “ 𝑀𝑎𝑦 𝐻𝑒𝑎𝑡𝑒𝑑 𝑅𝑖𝑣𝑎𝑙𝑟𝑦 𝑓𝑖𝑛𝑑 𝑦𝑜𝑢. ”   𓂅 ༙
+<p align="center"> $\color{#0050ba}{\textsf{༘ 𓂃   “ 𝕸𝖆𝖞 𝕳𝖊𝖆𝖙𝖊𝖉 𝕽𝖎𝖛𝖆𝖑𝖗𝖞 𝖋𝖎𝖓𝖉 𝖞𝖔𝖚. ”   𓂅 ༙
   }}$
