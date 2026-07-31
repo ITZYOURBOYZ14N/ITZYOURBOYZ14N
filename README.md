@@ -67,17 +67,17 @@
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐅𝐀𝐍𝐃𝐎𝐌 𝐈𝐖𝐄𝐂}}$
+<p align="center"> $\color{#006dff}{\textsf{𝕳𝕰𝕬𝕿𝕰𝕯 𝕽𝕴𝖁𝕬𝕷𝕽𝖄 𝕱𝕬𝕹𝕯𝕺𝕸, 𝕴𝖂𝕰𝕮}}$
 
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝐇𝐎𝐋𝐋𝐀𝐍𝐎𝐕 𝐊𝐈𝐍𝐍𝐄𝐑𝐒 𝐈𝐍𝐓}}$
+<p align="center"> $\color{#006dff}{\textsf{𝕳𝕺𝕷𝕷𝕬𝕹𝕺𝖁 𝕶𝕴𝕹𝕹𝕰𝕽𝕾/𝕯𝕺𝖀𝕭𝕷𝕰𝕾, 𝕴𝕹𝕿 𝕰𝕹𝕮 !}}$
 
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝐇𝐄𝐀𝐓𝐄𝐃 𝐑𝐈𝐕𝐀𝐋𝐑𝐘 𝐊𝐈𝐍𝐍𝐄𝐑𝐒, 𝐈𝐖𝐂 }}$
+<p align="center"> $\color{#006dff}{\textsf{𝕳𝕰𝕬𝕿𝕰𝕯 𝕽𝕴𝖁𝕬𝕷𝕽𝖄 𝕶𝕴𝕹𝕹𝕰𝕽𝕾, 𝕴𝕹𝕿 }}$
 
 
 
@@ -87,7 +87,7 @@
 
 
 
-<p align="center"> $\color{#ffcc00}{\textsf{☀ — 𝓕𝓲𝓸𝓭𝓸𝓻
+<p align="center"> $\color{#ffcc00}{\textsf{☀ — 𝕱 𝕴 𝕺 𝕯 𝕺 𝕽
   }}$
 
 
