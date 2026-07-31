@@ -42,12 +42,12 @@
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝐈𝐒𝐅𝐏}}$
+<p align="center"> $\color{#006dff}{\textsf{ℑ𝔖𝔉𝔓}}$
 
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝐀𝐑𝐈𝐄𝐒}}$
+<p align="center"> $\color{#006dff}{\textsf{𝔄ℜℑ𝔈𝔖}}$
 
 
 
@@ -72,9 +72,9 @@
 
 
 
-<p align="center"> $\color{#006dff}{\textsf{𝕳𝕺𝕷𝕷𝕬𝕹𝕺𝖁 𝕶𝕴𝕹𝕹𝕰𝕽𝕾/𝕯𝕺𝖀𝕭𝕷𝕰𝕾, 𝕴𝕹𝕿 𝕰𝕹𝕮 !}}$
+<p align="center"> $\color{#006dff}{\textsf{ℌ𝔒𝔏𝔏𝔄𝔑𝔒𝔙 𝔎ℑ𝔑𝔑𝔈ℜ𝔖/𝔇𝔒𝔘𝔅𝔏𝔈𝔖}}$
 
-
+<p align="center"> $\color{#006dff}{\textsf{ℑ𝔑𝔗 𝔈𝔑ℭ !!}}$
 
 
 <p align="center"> $\color{#006dff}{\textsf{𝕳𝕰𝕬𝕿𝕰𝕯 𝕽𝕴𝖁𝕬𝕷𝕽𝖄 𝕶𝕴𝕹𝕹𝕰𝕽𝕾, 𝕴𝕹𝕿 }}$
