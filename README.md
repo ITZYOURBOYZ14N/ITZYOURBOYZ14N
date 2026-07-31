@@ -17,7 +17,7 @@
 
 
 
-<p align="center"> $\color{#0050ba}{\textsf{@𝐼𝑇𝑍𝑌𝑂𝑈𝑅𝐵𝑂𝑌𝑍𝐼𝐴𝑁
+<p align="center"> $\color{#0050ba}{\text{@𝕴𝕿𝖅𝖄𝕺𝖀𝕽𝕭𝕺𝖄𝖅𝕴𝕬𝕹
   }}$
 
 
@@ -33,7 +33,7 @@
 
 
 <details>
-  <summary> <p align="center"> $\color{#0050ba}{\textsf{༙ 𓂃 𝐂𝐋𝐈𝐂𝐊 𝐌𝐄! 𓂅 ✦}}$ </summary>
+  <summary> <p align="center"> $\color{#0050ba}{\textsf{༙ 𓂃 𝕮𝕷𝕴𝕮𝕶 𝕸𝕰 !! 𓂅 ✦}}$ </summary>
   
 
 
