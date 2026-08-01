@@ -105,7 +105,7 @@
 
 
 
-<img width="1500" height="199" alt="Image" src="https://github.com/user-attachments/assets/d6deeb94-b1f2-4443-b35a-d202bf4d9dbf" />
+
 
 
 
@@ -147,3 +147,6 @@
 
 <p align="center"> $\color{#0050ba}{\textsf{༘ 𓂃   ❝ 𝕸𝖆𝖞 𝕳𝖊𝖆𝖙𝖊𝖉 𝕽𝖎𝖛𝖆𝖑𝖗𝖞 𝖋𝖎𝖓𝖉 𝖞𝖔𝖚. ❞   𓂅 ༙
   }}$
+
+
+<img width="1500" height="199" alt="Image" src="https://github.com/user-attachments/assets/d6deeb94-b1f2-4443-b35a-d202bf4d9dbf" />
