@@ -20,6 +20,9 @@
 <p align="center"> $\color{#0050ba}{\text{@𝕴𝕿𝖅𝖄𝕺𝖀𝕽𝕭𝕺𝖄𝖅𝕴𝕬𝕹
   }}$
 
+<p align="center"> $\color{#0050ba}{\text{𝕻𝖔𝖓𝖞 𝕿𝖔𝖜𝖓'𝖘 𝕳𝖆𝖑𝖑 𝖔𝖋 𝕸𝖊𝖉𝖎𝖆:}}$
+
+<img width="586" height="128" alt="Image" src="https://github.com/user-attachments/assets/6c643067-2c0e-4b53-857e-eb8fb96a5a5f" />
 
 
 <img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/fbebb885-7087-4d17-bc02-73c35851cc54" />
